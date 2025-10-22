@@ -1,0 +1,16 @@
+# Ignore Node dependencies
+node_modules/
+
+# Optional: common Next.js and build folders
+.next/
+out/
+dist/
+
+# Environment files
+.env
+.env.local
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+.vscode/

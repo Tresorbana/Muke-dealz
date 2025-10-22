@@ -1,0 +1,2434 @@
+{
+  "vehicles": [
+    {
+      "id": "2024-tesla-model-s-plaid",
+      "vin": "5YJSA1E41RF123001",
+      "stockNumber": "MD-TS-001",
+      "make": "Tesla",
+      "model": "Model S",
+      "trim": "Plaid",
+      "year": 2024,
+      "price": 118990,
+      "mileage": 2200,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "Sedan",
+      "exteriorColor": "Pearl White Multi-Coat",
+      "interiorColor": "Black Premium",
+      "horsepower": 1020,
+      "torque": 1050,
+      "zeroToSixty": 1.99,
+      "topSpeed": 200,
+      "range": 390,
+      "efficiency": "120 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Full Self-Driving Capability",
+        "Tri-Motor All-Wheel Drive",
+        "Autopilot",
+        "17-inch Cinematic Display",
+        "Heated and Ventilated Seats",
+        "Wireless Device Charging"
+      ],
+      "description": "An all-electric executive sedan delivering supercar performance with Tesla's top-tier technology suite and luxurious minimalist interior.",
+      "image": "/images/aaron-huber-8qYE6LGHW-c-unsplash (1).jpg",
+      "gallery": [
+        "/images/aaron-huber-8qYE6LGHW-c-unsplash.jpg",
+        "/images/Acura mdx_1.jpg"
+      ],
+      "location": {
+        "city": "Austin",
+        "state": "TX"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "luxury",
+        "sedan"
+      ]
+    },
+    {
+      "id": "2023-bmw-i7-xdrive60",
+      "vin": "WBY73AW03PCL56702",
+      "stockNumber": "MD-BM-002",
+      "make": "BMW",
+      "model": "i7",
+      "trim": "xDrive60",
+      "year": 2023,
+      "price": 126500,
+      "mileage": 4100,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "Sedan",
+      "exteriorColor": "Oxide Grey Metallic",
+      "interiorColor": "Tartufo Full Merino Leather",
+      "horsepower": 536,
+      "torque": 549,
+      "zeroToSixty": 4.5,
+      "topSpeed": 130,
+      "range": 318,
+      "efficiency": "87 MPGe combined",
+      "seating": 5,
+      "features": [
+        "BMW Theatre Screen",
+        "Executive Lounge Seating",
+        "Bowers & Wilkins Diamond Surround Sound",
+        "Parking Assistant Professional",
+        "Sky Lounge Panoramic Glass Roof",
+        "Iconic Glow Kidney Grille"
+      ],
+      "description": "BMW's flagship electric sedan with opulent cabin appointments, immersive entertainment, and smooth dual-motor performance.",
+      "image": "/images/Acura mdx_2.jpg",
+      "gallery": [
+        "/images/Acura mdx_3.jpg",
+        "/images/campbell-3ZUsNJhi_Ik-unsplash.jpg"
+      ],
+      "location": {
+        "city": "Los Angeles",
+        "state": "CA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "luxury",
+        "sedan"
+      ]
+    },
+    {
+      "id": "2022-mercedes-amg-e53-coupe",
+      "vin": "W1KZF6JB8NA987654",
+      "stockNumber": "MD-MB-003",
+      "make": "Mercedes-Benz",
+      "model": "AMG E 53",
+      "trim": "4MATIC+ Coupe",
+      "year": 2022,
+      "price": 82950,
+      "mileage": 9800,
+      "fuelType": "Hybrid",
+      "drivetrain": "AWD",
+      "transmission": "9-Speed Automatic",
+      "bodyStyle": "Coupe",
+      "exteriorColor": "Graphite Grey",
+      "interiorColor": "Red Pepper / Black Nappa Leather",
+      "horsepower": 429,
+      "torque": 384,
+      "zeroToSixty": 4.3,
+      "topSpeed": 155,
+      "range": 420,
+      "efficiency": "24 MPG combined",
+      "seating": 4,
+      "features": [
+        "AMG Performance Exhaust",
+        "AIR BODY CONTROL Air Suspension",
+        "MBUX Infotainment with Voice Control",
+        "Heated and Ventilated Front Seats",
+        "Panoramic Sunroof",
+        "Driver Assistance Package"
+      ],
+      "description": "Athletic grand tourer that blends AMG performance with a handcrafted cabin and mild hybrid efficiency.",
+      "image": "/images/david-moffatt-wg5OReRpgCo-unsplash.jpg",
+      "gallery": [
+        "/images/josh-berquist-0kxOW0I-HLM-unsplash.jpg",
+        "/images/joshua-koblin-eqW1MPinEV4-unsplash.jpg"
+      ],
+      "location": {
+        "city": "Miami",
+        "state": "FL"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "luxury",
+        "hybrid",
+        "coupe"
+      ]
+    },
+    {
+      "id": "2023-audi-q8-e-tron",
+      "vin": "WA1LAAGE5PB050321",
+      "stockNumber": "MD-AU-004",
+      "make": "Audi",
+      "model": "Q8 e-tron",
+      "trim": "Prestige",
+      "year": 2023,
+      "price": 78490,
+      "mileage": 3500,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Chronos Grey",
+      "interiorColor": "Pearl Beige Valcona Leather",
+      "horsepower": 402,
+      "torque": 490,
+      "zeroToSixty": 5.3,
+      "topSpeed": 124,
+      "range": 285,
+      "efficiency": "79 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Matrix-Design LED Headlights",
+        "Adaptive Air Suspension",
+        "Bang & Olufsen 3D Premium Sound",
+        "Heads-Up Display",
+        "Heated Rear Seats",
+        "Driver Assistance Plus"
+      ],
+      "description": "A fully electric luxury SUV offering refined comfort, advanced MMI touch response, and quattro all-wheel drive confidence.",
+      "image": "/images/kenny-eliason-FcyipqujfGg-unsplash.jpg",
+      "gallery": [
+        "/images/marek-pospisil-oUBjd22gF6w-unsplash.jpg",
+        "/images/mitch-kemp-2w_Nxti8iKE-unsplash.jpg"
+      ],
+      "location": {
+        "city": "Seattle",
+        "state": "WA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "luxury",
+        "suv"
+      ]
+    },
+    {
+      "id": "2024-porsche-taycan-gts-sport-turismo",
+      "vin": "WP0AC2Y17RLS78120",
+      "stockNumber": "MD-PO-005",
+      "make": "Porsche",
+      "model": "Taycan",
+      "trim": "GTS Sport Turismo",
+      "year": 2024,
+      "price": 143500,
+      "mileage": 1800,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "2-Speed Automatic",
+      "bodyStyle": "Wagon",
+      "exteriorColor": "Crayon",
+      "interiorColor": "GTS Race-Tex Black",
+      "horsepower": 590,
+      "torque": 626,
+      "zeroToSixty": 3.5,
+      "topSpeed": 155,
+      "range": 301,
+      "efficiency": "83 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Rear-Axle Steering",
+        "Porsche Active Ride Suspension",
+        "Performance Battery Plus",
+        "Burmester 3D Surround Sound",
+        "Heated and Ventilated Front Seats",
+        "Adaptive Sport Seats"
+      ],
+      "description": "Electrified performance wagon marrying Porsche driving dynamics with versatile cargo space and cutting-edge digital cockpit.",
+      "image": "/images/olav-tvedt-6lSBynPRaAQ-unsplash (1).jpg",
+      "gallery": [
+        "/images/olav-tvedt-6lSBynPRaAQ-unsplash.jpg",
+        "/images/pexels-adrian-dorobantu-989175-2127733.jpg"
+      ],
+      "location": {
+        "city": "Chicago",
+        "state": "IL"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "luxury",
+        "performance"
+      ]
+    },
+    {
+      "id": "2024-lucid-air-grand-touring",
+      "vin": "50A3L2C47RA012345",
+      "stockNumber": "MD-LC-006",
+      "make": "Lucid",
+      "model": "Air",
+      "trim": "Grand Touring",
+      "year": 2024,
+      "price": 134500,
+      "mileage": 1450,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "Sedan",
+      "exteriorColor": "Infinite Black",
+      "interiorColor": "Tahoe Theme",
+      "horsepower": 819,
+      "torque": 885,
+      "zeroToSixty": 3,
+      "topSpeed": 168,
+      "range": 516,
+      "efficiency": "125 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Glass Canopy Roof",
+        "DreamDrive Pro Driver Assistance",
+        "21-Speaker Surreal Sound",
+        "Massage Front Seats",
+        "Over-the-Air Updates",
+        "Power Opening Frunk"
+      ],
+      "description": "Ultra-luxury electric sedan delivering industry-leading range, rapid charging capability, and an airy, handcrafted cabin.",
+      "image": "/images/pexels-alshreef-32757555.jpg",
+      "gallery": [
+        "/images/pexels-arnie-watkins-1337313-3156482.jpg",
+        "/images/pexels-avinashpatel-544542.jpg"
+      ],
+      "location": {
+        "city": "San Jose",
+        "state": "CA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "luxury",
+        "sedan"
+      ]
+    },
+    {
+      "id": "2023-rivian-r1s-adventure",
+      "vin": "7FADV1AA2PA002876",
+      "stockNumber": "MD-RI-007",
+      "make": "Rivian",
+      "model": "R1S",
+      "trim": "Adventure",
+      "year": 2023,
+      "price": 94990,
+      "mileage": 5200,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Rivian Blue",
+      "interiorColor": "Black Mountain",
+      "horsepower": 835,
+      "torque": 908,
+      "zeroToSixty": 3,
+      "topSpeed": 125,
+      "range": 316,
+      "efficiency": "69 MPGe combined",
+      "seating": 7,
+      "features": [
+        "Quad Motor Drive",
+        "Adjustable Air Suspension",
+        "Camp Mode",
+        "Driver+ Driver Assistance",
+        "Panoramic Glass Roof",
+        "Lava Forge Interior Accents"
+      ],
+      "description": "All-electric, go-anywhere SUV with seven-passenger seating, capable off-road dynamics, and innovative adventure-ready tech.",
+      "image": "/images/pexels-bradikan-30806975.jpg",
+      "gallery": [
+        "/images/pexels-brett-sayles-1638459.jpg",
+        "/images/pexels-cesarperez209-733745.jpg"
+      ],
+      "location": {
+        "city": "Denver",
+        "state": "CO"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "suv",
+        "adventure"
+      ]
+    },
+    {
+      "id": "2024-bmw-x5-xdrive50e",
+      "vin": "5UX23EM08R9L34567",
+      "stockNumber": "MD-BM-008",
+      "make": "BMW",
+      "model": "X5",
+      "trim": "xDrive50e",
+      "year": 2024,
+      "price": 79990,
+      "mileage": 3200,
+      "fuelType": "Plug-In Hybrid",
+      "drivetrain": "AWD",
+      "transmission": "8-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Mineral White Metallic",
+      "interiorColor": "Coffee Vernasca Leather",
+      "horsepower": 483,
+      "torque": 516,
+      "zeroToSixty": 4.6,
+      "topSpeed": 155,
+      "range": 40,
+      "efficiency": "58 MPGe / 23 MPG combined",
+      "seating": 5,
+      "features": [
+        "Live Cockpit Professional",
+        "Executive Package",
+        "Harman Kardon Surround Sound",
+        "Air Suspension",
+        "Remote Engine Start",
+        "Climate Comfort Front Seats"
+      ],
+      "description": "Plug-in hybrid luxury SUV combining electric-only commuting capability with BMW's signature driving dynamics and premium interior.",
+      "image": "/images/pexels-charles-kettor-268979-831475.jpg",
+      "gallery": [
+        "/images/pexels-danielspase-949796.jpg",
+        "/images/pexels-dom-j-7304-303316.jpg"
+      ],
+      "location": {
+        "city": "Atlanta",
+        "state": "GA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "hybrid",
+        "luxury",
+        "suv"
+      ]
+    },
+    {
+      "id": "2022-volvo-xc90-recharge",
+      "vin": "YV4BR0CK2N1664321",
+      "stockNumber": "MD-VO-009",
+      "make": "Volvo",
+      "model": "XC90 Recharge",
+      "trim": "T8 Inscription",
+      "year": 2022,
+      "price": 65990,
+      "mileage": 11250,
+      "fuelType": "Plug-In Hybrid",
+      "drivetrain": "AWD",
+      "transmission": "8-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Thunder Grey Metallic",
+      "interiorColor": "Charcoal Ventilated Nappa Leather",
+      "horsepower": 455,
+      "torque": 523,
+      "zeroToSixty": 5.3,
+      "topSpeed": 112,
+      "range": 36,
+      "efficiency": "55 MPGe / 27 MPG combined",
+      "seating": 6,
+      "features": [
+        "Pilot Assist",
+        "Bowers & Wilkins Premium Audio",
+        "Four-Zone Climate Control",
+        "Crystal Gear Shifter",
+        "Massage Front Seats",
+        "360-Degree Surround View"
+      ],
+      "description": "Elegant three-row SUV offering Scandinavian craftsmanship, advanced safety technology, and plug-in hybrid efficiency.",
+      "image": "/images/pexels-jacobmorch-457418.jpg",
+      "gallery": [
+        "/images/pexels-junnoet-235222.jpg",
+        "/images/pexels-kampratt-5086489.jpg"
+      ],
+      "location": {
+        "city": "Minneapolis",
+        "state": "MN"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "hybrid",
+        "luxury",
+        "suv"
+      ]
+    },
+    {
+      "id": "2023-range-rover-autobiography",
+      "vin": "SALKP9EU4PA123789",
+      "stockNumber": "MD-LR-010",
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "trim": "Autobiography LWB",
+      "year": 2023,
+      "price": 164900,
+      "mileage": 2600,
+      "fuelType": "Mild Hybrid",
+      "drivetrain": "AWD",
+      "transmission": "8-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Belgravia Green",
+      "interiorColor": "Perlino Semi-Aniline Leather",
+      "horsepower": 523,
+      "torque": 553,
+      "zeroToSixty": 4.4,
+      "topSpeed": 155,
+      "range": 450,
+      "efficiency": "20 MPG combined",
+      "seating": 5,
+      "features": [
+        "Executive Class Rear Seating",
+        "Meridian Signature Sound",
+        "SV Bespoke Interior",
+        "Terrain Response 2 with Configurable Programs",
+        "All-Wheel Steering",
+        "LED Digital Headlights"
+      ],
+      "description": "The pinnacle of luxury SUVs with long wheelbase comfort, refined performance, and unparalleled craftsmanship for every journey.",
+      "image": "/images/pexels-louis-gys-218031041-12040980.jpg",
+      "gallery": [
+        "/images/pexels-lynxexotics-3802508.jpg",
+        "/images/pexels-mali-97458.jpg"
+      ],
+      "location": {
+        "city": "Greenwich",
+        "state": "CT"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "luxury",
+        "suv"
+      ]
+    },
+    {
+      "id": "2024-cadillac-escalade-iq-sport",
+      "vin": "1GYS4RKT3RR100201",
+      "stockNumber": "MD-CA-011",
+      "make": "Cadillac",
+      "model": "Escalade IQ",
+      "trim": "Sport",
+      "year": 2024,
+      "price": 129990,
+      "mileage": 900,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Black Raven",
+      "interiorColor": "Santorini/Maple Sugar",
+      "horsepower": 750,
+      "torque": 785,
+      "zeroToSixty": 4.9,
+      "topSpeed": 124,
+      "range": 450,
+      "efficiency": "78 MPGe combined",
+      "seating": 7,
+      "features": [
+        "33-inch Curved OLED Display",
+        "Hands-Free Super Cruise",
+        "AKG Studio Reference 36-Speaker Audio",
+        "Executive Second Row",
+        "Adaptive Air Ride Suspension",
+        "Magnetic Ride Control"
+      ],
+      "description": "All-electric full-size luxury SUV with dramatic design, cutting-edge infotainment, and commanding performance.",
+      "image": "/images/pexels-marco-antonio-diaz-213207-682484.jpg",
+      "gallery": [
+        "/images/pexels-mikebirdy-1054211.jpg",
+        "/images/pexels-mikebirdy-112460.jpg"
+      ],
+      "location": {
+        "city": "Dallas",
+        "state": "TX"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "luxury",
+        "suv"
+      ]
+    },
+    {
+      "id": "2024-lamborghini-urus-performante",
+      "vin": "ZPBUA1ZL6RLA18888",
+      "stockNumber": "MD-LA-012",
+      "make": "Lamborghini",
+      "model": "Urus",
+      "trim": "Performante",
+      "year": 2024,
+      "price": 269500,
+      "mileage": 650,
+      "fuelType": "Gasoline",
+      "drivetrain": "AWD",
+      "transmission": "8-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Bianco Monocerus",
+      "interiorColor": "Nero Cosmus",
+      "horsepower": 657,
+      "torque": 627,
+      "zeroToSixty": 3.3,
+      "topSpeed": 190,
+      "range": 320,
+      "efficiency": "14 MPG combined",
+      "seating": 5,
+      "features": [
+        "Anima Selector with Rally Mode",
+        "Carbon Fiber Exterior Package",
+        "Alcantara Performante Interior",
+        "Titanium Sports Exhaust",
+        "Race Tuned Suspension",
+        "Advanced Driver Display"
+      ],
+      "description": "Super SUV engineered for extreme performance with aggressive styling, track-honed dynamics, and everyday usability.",
+      "image": "/images/pexels-mikebirdy-170811.jpg",
+      "gallery": [
+        "/images/pexels-mikebirdy-244206.jpg",
+        "/images/pexels-mikebirdy-446389.jpg"
+      ],
+      "location": {
+        "city": "Las Vegas",
+        "state": "NV"
+      },
+      "certified": false,
+      "categories": [
+        "all",
+        "luxury",
+        "performance",
+        "suv"
+      ]
+    },
+    {
+      "id": "2021-bentley-continental-gtc-speed",
+      "vin": "SCBDU4ZG3MC085432",
+      "stockNumber": "MD-BE-013",
+      "make": "Bentley",
+      "model": "Continental GTC",
+      "trim": "Speed",
+      "year": 2021,
+      "price": 254800,
+      "mileage": 7200,
+      "fuelType": "Gasoline",
+      "drivetrain": "AWD",
+      "transmission": "8-Speed Dual-Clutch",
+      "bodyStyle": "Convertible",
+      "exteriorColor": "Ice",
+      "interiorColor": "Linen with Imperial Blue",
+      "horsepower": 650,
+      "torque": 664,
+      "zeroToSixty": 3.6,
+      "topSpeed": 208,
+      "range": 360,
+      "efficiency": "15 MPG combined",
+      "seating": 4,
+      "features": [
+        "Z-fold Convertible Roof",
+        "Naim for Bentley Audio",
+        "Front Seat Heating, Cooling, and Massage",
+        "Rotating Display",
+        "Carbon Ceramic Brakes",
+        "Mulliner Driving Specification"
+      ],
+      "description": "Open-top grand tourer that blends handcrafted opulence with powerful W12 performance for effortless cruising.",
+      "image": "/images/pexels-mikebirdy-452099.jpg",
+      "gallery": [
+        "/images/pexels-mikebirdy-977003.jpg",
+        "/images/pexels-pashal-337909.jpg"
+      ],
+      "location": {
+        "city": "Palm Beach",
+        "state": "FL"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "luxury",
+        "convertible",
+        "performance"
+      ]
+    },
+    {
+      "id": "2022-rolls-royce-ghost-black-badge",
+      "vin": "SCA689L59NU207345",
+      "stockNumber": "MD-RR-014",
+      "make": "Rolls-Royce",
+      "model": "Ghost",
+      "trim": "Black Badge",
+      "year": 2022,
+      "price": 359900,
+      "mileage": 4400,
+      "fuelType": "Gasoline",
+      "drivetrain": "AWD",
+      "transmission": "8-Speed Automatic",
+      "bodyStyle": "Sedan",
+      "exteriorColor": "Arctic White with Mandarin Coachline",
+      "interiorColor": "Forged Yellow Leather",
+      "horsepower": 591,
+      "torque": 664,
+      "zeroToSixty": 4.5,
+      "topSpeed": 155,
+      "range": 390,
+      "efficiency": "14 MPG combined",
+      "seating": 5,
+      "features": [
+        "Illuminated Fascia",
+        "Starlight Headliner",
+        "Bespoke Audio",
+        "Immersive Seating with Massage",
+        "Flagbearer Suspension",
+        "Self-Closing Coach Doors"
+      ],
+      "description": "Ultra-luxury saloon delivering serene ride comfort, bespoke craftsmanship, and commanding twin-turbo V12 power.",
+      "image": "/images/pexels-peely-712618.jpg",
+      "gallery": [
+        "/images/pexels-pixabay-164654.jpg",
+        "/images/pexels-pixabay-210019.jpg"
+      ],
+      "location": {
+        "city": "New York",
+        "state": "NY"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "luxury",
+        "sedan"
+      ]
+    },
+    {
+      "id": "2023-aston-martin-db12",
+      "vin": "SCFRMFAW8PGT00456",
+      "stockNumber": "MD-AM-015",
+      "make": "Aston Martin",
+      "model": "DB12",
+      "trim": "Launch Edition",
+      "year": 2023,
+      "price": 238500,
+      "mileage": 1800,
+      "fuelType": "Gasoline",
+      "drivetrain": "RWD",
+      "transmission": "8-Speed Automatic",
+      "bodyStyle": "Coupe",
+      "exteriorColor": "Iridian Blue",
+      "interiorColor": "Onyx Black & Bitter Chocolate",
+      "horsepower": 671,
+      "torque": 590,
+      "zeroToSixty": 3.5,
+      "topSpeed": 202,
+      "range": 380,
+      "efficiency": "18 MPG combined",
+      "seating": 4,
+      "features": [
+        "Carbon Ceramic Brakes",
+        "Bespoke Q Specification",
+        "Bowers & Wilkins Audio",
+        "Heated and Ventilated Seats",
+        "Adaptive Damping System",
+        "Glass Switchgear"
+      ],
+      "description": "Grand touring coupe redefining the segment with muscular design, twin-turbo V8 power, and handcrafted elegance.",
+      "image": "/images/pexels-pixabay-39855.jpg",
+      "gallery": [
+        "/images/pexels-quintingellar-313779.jpg",
+        "/images/pexels-riel-png-250154.jpg"
+      ],
+      "location": {
+        "city": "Beverly Hills",
+        "state": "CA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "luxury",
+        "performance",
+        "coupe"
+      ]
+    },
+    {
+      "id": "2020-ferrari-f8-spider",
+      "vin": "ZFF93LMA2L0256789",
+      "stockNumber": "MD-FE-016",
+      "make": "Ferrari",
+      "model": "F8 Spider",
+      "trim": "Base",
+      "year": 2020,
+      "price": 324900,
+      "mileage": 4300,
+      "fuelType": "Gasoline",
+      "drivetrain": "RWD",
+      "transmission": "7-Speed DCT",
+      "bodyStyle": "Convertible",
+      "exteriorColor": "Rosso Corsa",
+      "interiorColor": "Nero Leather",
+      "horsepower": 710,
+      "torque": 568,
+      "zeroToSixty": 2.9,
+      "topSpeed": 211,
+      "range": 330,
+      "efficiency": "16 MPG combined",
+      "seating": 2,
+      "features": [
+        "Manettino Drive Modes",
+        "Carbon Fiber Steering Wheel",
+        "Apple CarPlay",
+        "Front Lift System",
+        "Daytona Style Seats",
+        "Parking Camera"
+      ],
+      "description": "Retractable hardtop supercar delivering breathtaking V8 performance and open-air exhilaration.",
+      "image": "/images/pexels-sevenstormphotography-575386.jpg",
+      "gallery": [
+        "/images/pexels-stephanlouis-5381501.jpg",
+        "/images/pexels-vladalex94-1402787.jpg"
+      ],
+      "location": {
+        "city": "Scottsdale",
+        "state": "AZ"
+      },
+      "certified": false,
+      "categories": [
+        "all",
+        "performance",
+        "convertible",
+        "luxury"
+      ]
+    },
+    {
+      "id": "2021-maserati-mc20",
+      "vin": "ZAMBMMBN4M0345123",
+      "stockNumber": "MD-MA-017",
+      "make": "Maserati",
+      "model": "MC20",
+      "trim": "Base",
+      "year": 2021,
+      "price": 214500,
+      "mileage": 5200,
+      "fuelType": "Gasoline",
+      "drivetrain": "RWD",
+      "transmission": "8-Speed Dual-Clutch",
+      "bodyStyle": "Coupe",
+      "exteriorColor": "Bianco Audace",
+      "interiorColor": "Blu Cielo",
+      "horsepower": 621,
+      "torque": 538,
+      "zeroToSixty": 2.9,
+      "topSpeed": 202,
+      "range": 340,
+      "efficiency": "17 MPG combined",
+      "seating": 2,
+      "features": [
+        "Butterfly Doors",
+        "Carbon Fiber Monocoque",
+        "Sonus Faber Audio",
+        "Driving Modes: GT, Sport, Corsa, Wet",
+        "12.3-inch Digital Cluster",
+        "Launch Control"
+      ],
+      "description": "Italian supercar blending race-derived engineering with sophisticated design and advanced aerodynamics.",
+      "image": "/images/pexels-yuraforrat-8642186.jpg",
+      "gallery": [
+        "/images/pexels-zsolt-joo-483255-2882234.jpg",
+        "/images/stefan-rodriguez-2AovfzYV3rc-unsplash.jpg"
+      ],
+      "location": {
+        "city": "Chicago",
+        "state": "IL"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "performance",
+        "luxury",
+        "coupe"
+      ]
+    },
+    {
+      "id": "2022-chevrolet-corvette-z51",
+      "vin": "1G1YC2D47N5104321",
+      "stockNumber": "MD-CH-018",
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "trim": "2LT Z51",
+      "year": 2022,
+      "price": 78800,
+      "mileage": 8900,
+      "fuelType": "Gasoline",
+      "drivetrain": "RWD",
+      "transmission": "8-Speed Dual-Clutch",
+      "bodyStyle": "Coupe",
+      "exteriorColor": "Rapid Blue",
+      "interiorColor": "Sky Cool Gray",
+      "horsepower": 495,
+      "torque": 470,
+      "zeroToSixty": 2.9,
+      "topSpeed": 194,
+      "range": 360,
+      "efficiency": "19 MPG combined",
+      "seating": 2,
+      "features": [
+        "Performance Data Recorder",
+        "Heated and Ventilated Seats",
+        "Head-Up Display",
+        "Magnetic Ride Control",
+        "Front Lift Adjustable Height",
+        "Bose Performance Series Audio"
+      ],
+      "description": "Mid-engine American icon delivering thrilling performance, advanced driver tech, and everyday comfort.",
+      "image": "/images/steven-binotto-o6yH_yAc2Ws-unsplash (1).jpg",
+      "gallery": [
+        "/images/steven-binotto-o6yH_yAc2Ws-unsplash.jpg",
+        "/images/Tesla Model S_1.jpg"
+      ],
+      "location": {
+        "city": "Charlotte",
+        "state": "NC"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "performance",
+        "coupe"
+      ]
+    },
+    {
+      "id": "2023-toyota-gr-supra-30",
+      "vin": "WZ1DB4C06PW234567",
+      "stockNumber": "MD-TO-019",
+      "make": "Toyota",
+      "model": "GR Supra",
+      "trim": "3.0 Premium",
+      "year": 2023,
+      "price": 57990,
+      "mileage": 6400,
+      "fuelType": "Gasoline",
+      "drivetrain": "RWD",
+      "transmission": "6-Speed Manual",
+      "bodyStyle": "Coupe",
+      "exteriorColor": "Renaissance Red 2.0",
+      "interiorColor": "Hazelnut Leather",
+      "horsepower": 382,
+      "torque": 368,
+      "zeroToSixty": 3.9,
+      "topSpeed": 155,
+      "range": 370,
+      "efficiency": "26 MPG combined",
+      "seating": 2,
+      "features": [
+        "Adaptive Variable Suspension",
+        "Active Rear Differential",
+        "JBL 12-Speaker Audio",
+        "Head-Up Display",
+        "Wireless Apple CarPlay",
+        "Heated Sport Seats"
+      ],
+      "description": "Driver-focused sports coupe with manual transmission engagement and balanced chassis dynamics.",
+      "image": "/images/Tesla Model S_2.jpg",
+      "gallery": [
+        "/images/Tesla Model S_3.jpg",
+        "/images/Volvo S60 recharge_1.jpg"
+      ],
+      "location": {
+        "city": "Portland",
+        "state": "OR"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "performance",
+        "coupe"
+      ]
+    },
+    {
+      "id": "2022-nissan-gt-r-nismo",
+      "vin": "JN1AR5EF9NM820134",
+      "stockNumber": "MD-NI-020",
+      "make": "Nissan",
+      "model": "GT-R",
+      "trim": "NISMO",
+      "year": 2022,
+      "price": 219900,
+      "mileage": 5100,
+      "fuelType": "Gasoline",
+      "drivetrain": "AWD",
+      "transmission": "6-Speed Dual-Clutch",
+      "bodyStyle": "Coupe",
+      "exteriorColor": "Nismo Stealth Gray",
+      "interiorColor": "Alcantara Red/Black",
+      "horsepower": 600,
+      "torque": 481,
+      "zeroToSixty": 2.5,
+      "topSpeed": 205,
+      "range": 310,
+      "efficiency": "18 MPG combined",
+      "seating": 4,
+      "features": [
+        "Carbon Fiber Body Components",
+        "NISMO-tuned Suspension",
+        "Recaro Carbon Bucket Seats",
+        "Bose Audio",
+        "NissanConnect Navigation",
+        "Titanium Exhaust"
+      ],
+      "description": "Track-honed supercar with legendary performance heritage and advanced ATTESA all-wheel drive.",
+      "image": "/images/Volvo S60 recharge_2.jpg",
+      "gallery": [
+        "/images/aaron-huber-8qYE6LGHW-c-unsplash (1).jpg",
+        "/images/aaron-huber-8qYE6LGHW-c-unsplash.jpg"
+      ],
+      "location": {
+        "city": "Houston",
+        "state": "TX"
+      },
+      "certified": false,
+      "categories": [
+        "all",
+        "performance",
+        "coupe"
+      ]
+    },
+    {
+      "id": "2024-ford-mustang-dark-horse",
+      "vin": "1FA6P8R05R5501234",
+      "stockNumber": "MD-FO-021",
+      "make": "Ford",
+      "model": "Mustang",
+      "trim": "Dark Horse Premium",
+      "year": 2024,
+      "price": 63990,
+      "mileage": 1900,
+      "fuelType": "Gasoline",
+      "drivetrain": "RWD",
+      "transmission": "6-Speed Manual",
+      "bodyStyle": "Coupe",
+      "exteriorColor": "Blue Ember Metallic",
+      "interiorColor": "Deep Indigo",
+      "horsepower": 500,
+      "torque": 418,
+      "zeroToSixty": 3.7,
+      "topSpeed": 168,
+      "range": 380,
+      "efficiency": "19 MPG combined",
+      "seating": 4,
+      "features": [
+        "Active Valve Exhaust",
+        "MagneRide Dampers",
+        "Recaro Performance Seats",
+        "12.4-inch Digital Cluster",
+        "13.2-inch SYNC 4A Touchscreen",
+        "Performance Shift Lights"
+      ],
+      "description": "Track-capable pony car with aggressive styling, naturally aspirated V8, and driver-focused technology.",
+      "image": "/images/Acura mdx_1.jpg",
+      "gallery": [
+        "/images/Acura mdx_2.jpg",
+        "/images/Acura mdx_3.jpg"
+      ],
+      "location": {
+        "city": "Phoenix",
+        "state": "AZ"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "performance",
+        "coupe"
+      ]
+    },
+    {
+      "id": "2023-dodge-challenger-srt-demon-170",
+      "vin": "2C3CDZL98PH102345",
+      "stockNumber": "MD-DO-022",
+      "make": "Dodge",
+      "model": "Challenger",
+      "trim": "SRT Demon 170",
+      "year": 2023,
+      "price": 132995,
+      "mileage": 800,
+      "fuelType": "Gasoline",
+      "drivetrain": "RWD",
+      "transmission": "8-Speed Automatic",
+      "bodyStyle": "Coupe",
+      "exteriorColor": "Pitch Black",
+      "interiorColor": "Laguna Leather",
+      "horsepower": 1025,
+      "torque": 945,
+      "zeroToSixty": 1.6,
+      "topSpeed": 215,
+      "range": 310,
+      "efficiency": "13 MPG combined",
+      "seating": 2,
+      "features": [
+        "Drag Mode Suspension",
+        "TransBrake 2.0",
+        "Line Lock",
+        "SRT Power Chiller",
+        "Widebody Fender Flares",
+        "Uconnect Performance Pages"
+      ],
+      "description": "Factory drag-strip monster delivering record-breaking acceleration, purpose-built for straight-line dominance.",
+      "image": "/images/campbell-3ZUsNJhi_Ik-unsplash.jpg",
+      "gallery": [
+        "/images/david-moffatt-wg5OReRpgCo-unsplash.jpg",
+        "/images/josh-berquist-0kxOW0I-HLM-unsplash.jpg"
+      ],
+      "location": {
+        "city": "Detroit",
+        "state": "MI"
+      },
+      "certified": false,
+      "categories": [
+        "all",
+        "performance",
+        "coupe"
+      ]
+    },
+    {
+      "id": "2024-porsche-911-turbo-s",
+      "vin": "WP0AD2A93RS258963",
+      "stockNumber": "MD-PO-023",
+      "make": "Porsche",
+      "model": "911",
+      "trim": "Turbo S",
+      "year": 2024,
+      "price": 232500,
+      "mileage": 1200,
+      "fuelType": "Gasoline",
+      "drivetrain": "AWD",
+      "transmission": "8-Speed PDK",
+      "bodyStyle": "Coupe",
+      "exteriorColor": "Shark Blue",
+      "interiorColor": "Slate Grey",
+      "horsepower": 640,
+      "torque": 590,
+      "zeroToSixty": 2.6,
+      "topSpeed": 205,
+      "range": 360,
+      "efficiency": "18 MPG combined",
+      "seating": 4,
+      "features": [
+        "Rear-Axle Steering",
+        "PCCB Carbon Ceramic Brakes",
+        "Sport Chrono Package",
+        "Adaptive Sports Seats",
+        "BOSE Surround Sound",
+        "Active Aerodynamics"
+      ],
+      "description": "Iconic performance coupe delivering relentless acceleration, everyday usability, and timeless design.",
+      "image": "/images/joshua-koblin-eqW1MPinEV4-unsplash.jpg",
+      "gallery": [
+        "/images/kenny-eliason-FcyipqujfGg-unsplash.jpg",
+        "/images/marek-pospisil-oUBjd22gF6w-unsplash.jpg"
+      ],
+      "location": {
+        "city": "San Francisco",
+        "state": "CA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "performance",
+        "luxury",
+        "coupe"
+      ]
+    },
+    {
+      "id": "2024-bmw-m5-competition",
+      "vin": "WBS83CH04RCK12345",
+      "stockNumber": "MD-BM-024",
+      "make": "BMW",
+      "model": "M5",
+      "trim": "Competition",
+      "year": 2024,
+      "price": 119900,
+      "mileage": 2100,
+      "fuelType": "Gasoline",
+      "drivetrain": "AWD",
+      "transmission": "8-Speed Automatic",
+      "bodyStyle": "Sedan",
+      "exteriorColor": "Isle of Man Green",
+      "interiorColor": "Silverstone Extended Merino",
+      "horsepower": 617,
+      "torque": 553,
+      "zeroToSixty": 3.1,
+      "topSpeed": 189,
+      "range": 370,
+      "efficiency": "17 MPG combined",
+      "seating": 5,
+      "features": [
+        "M xDrive with 2WD Mode",
+        "Active M Differential",
+        "M Multifunction Seats",
+        "Carbon Fiber Roof",
+        "Harman Kardon Surround Sound",
+        "Driving Assistance Professional"
+      ],
+      "description": "Super sedan blending exhilarating performance, luxury craftsmanship, and everyday practicality.",
+      "image": "/images/mitch-kemp-2w_Nxti8iKE-unsplash.jpg",
+      "gallery": [
+        "/images/olav-tvedt-6lSBynPRaAQ-unsplash (1).jpg",
+        "/images/olav-tvedt-6lSBynPRaAQ-unsplash.jpg"
+      ],
+      "location": {
+        "city": "Boston",
+        "state": "MA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "performance",
+        "luxury",
+        "sedan"
+      ]
+    },
+    {
+      "id": "2024-audi-rs-e-tron-gt",
+      "vin": "WAUZZZFW0R9012345",
+      "stockNumber": "MD-AU-025",
+      "make": "Audi",
+      "model": "RS e-tron GT",
+      "trim": "Prestige",
+      "year": 2024,
+      "price": 146900,
+      "mileage": 1600,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "2-Speed Automatic",
+      "bodyStyle": "Sedan",
+      "exteriorColor": "Daytona Gray Pearl",
+      "interiorColor": "Arras Red Fine Nappa",
+      "horsepower": 637,
+      "torque": 612,
+      "zeroToSixty": 3.1,
+      "topSpeed": 155,
+      "range": 232,
+      "efficiency": "81 MPGe combined",
+      "seating": 5,
+      "features": [
+        "e-quattro All-Wheel Drive",
+        "Carbon Twill Inlays",
+        "Matrix LED Headlights",
+        "Bang & Olufsen 3D Audio",
+        "Adaptive Air Suspension",
+        "Panoramic Glass Roof"
+      ],
+      "description": "Electric grand tourer delivering RS-level performance, futuristic design, and long-distance comfort.",
+      "image": "/images/pexels-adrian-dorobantu-989175-2127733.jpg",
+      "gallery": [
+        "/images/pexels-alshreef-32757555.jpg",
+        "/images/pexels-arnie-watkins-1337313-3156482.jpg"
+      ],
+      "location": {
+        "city": "Denver",
+        "state": "CO"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "performance",
+        "sedan"
+      ]
+    },
+    {
+      "id": "2024-mercedes-eqs-580-4matic",
+      "vin": "W1KCG4EB6RA002467",
+      "stockNumber": "MD-MB-026",
+      "make": "Mercedes-Benz",
+      "model": "EQS",
+      "trim": "580 4MATIC",
+      "year": 2024,
+      "price": 119990,
+      "mileage": 2800,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "Sedan",
+      "exteriorColor": "Twilight Blue Metallic",
+      "interiorColor": "Macchiato Beige Leather",
+      "horsepower": 516,
+      "torque": 631,
+      "zeroToSixty": 4.1,
+      "topSpeed": 130,
+      "range": 340,
+      "efficiency": "90 MPGe combined",
+      "seating": 5,
+      "features": [
+        "MBUX Hyperscreen",
+        "Rear-Axle Steering",
+        "Burmester 3D Surround Sound",
+        "ENERGIZING Comfort Control",
+        "Heat Pump Thermal Management",
+        "AIRMATIC Air Suspension"
+      ],
+      "description": "Flagship electric luxury sedan with serene ride quality, immersive technology, and sustainable materials.",
+      "image": "/images/pexels-avinashpatel-544542.jpg",
+      "gallery": [
+        "/images/pexels-bradikan-30806975.jpg",
+        "/images/pexels-brett-sayles-1638459.jpg"
+      ],
+      "location": {
+        "city": "Seattle",
+        "state": "WA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "luxury",
+        "sedan"
+      ]
+    },
+    {
+      "id": "2024-tesla-model-x-plaid",
+      "vin": "7SAXCBE62RF987654",
+      "stockNumber": "MD-TS-027",
+      "make": "Tesla",
+      "model": "Model X",
+      "trim": "Plaid",
+      "year": 2024,
+      "price": 124990,
+      "mileage": 1500,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Deep Blue Metallic",
+      "interiorColor": "Cream Premium",
+      "horsepower": 1020,
+      "torque": 1050,
+      "zeroToSixty": 2.5,
+      "topSpeed": 163,
+      "range": 333,
+      "efficiency": "98 MPGe combined",
+      "seating": 6,
+      "features": [
+        "Falcon Wing Doors",
+        "Tri-Motor AWD",
+        "Panoramic Windshield",
+        "Auto Shifting",
+        "Yoke Steering",
+        "Premium Connectivity"
+      ],
+      "description": "Performance electric SUV with unparalleled acceleration, futuristic design, and expansive cabin versatility.",
+      "image": "/images/pexels-cesarperez209-733745.jpg",
+      "gallery": [
+        "/images/pexels-charles-kettor-268979-831475.jpg",
+        "/images/pexels-danielspase-949796.jpg"
+      ],
+      "location": {
+        "city": "Salt Lake City",
+        "state": "UT"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "suv",
+        "luxury"
+      ]
+    },
+    {
+      "id": "2024-tesla-model-3-performance",
+      "vin": "5YJ3E1EB7RF455321",
+      "stockNumber": "MD-TS-028",
+      "make": "Tesla",
+      "model": "Model 3",
+      "trim": "Performance",
+      "year": 2024,
+      "price": 55990,
+      "mileage": 900,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "Sedan",
+      "exteriorColor": "Ultra Red",
+      "interiorColor": "Black and White",
+      "horsepower": 510,
+      "torque": 487,
+      "zeroToSixty": 3.1,
+      "topSpeed": 162,
+      "range": 296,
+      "efficiency": "113 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Dual Motor All-Wheel Drive",
+        "Track Mode",
+        "Premium Connectivity",
+        "Heated Front and Rear Seats",
+        "Glass Roof",
+        "Autopilot"
+      ],
+      "description": "Compact performance EV sedan with razor-sharp acceleration, minimalist design, and advanced driver assistance tech.",
+      "image": "/images/pexels-dom-j-7304-303316.jpg",
+      "gallery": [
+        "/images/pexels-jacobmorch-457418.jpg",
+        "/images/pexels-junnoet-235222.jpg"
+      ],
+      "location": {
+        "city": "San Diego",
+        "state": "CA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "sedan"
+      ]
+    },
+    {
+      "id": "2024-tesla-model-y-long-range",
+      "vin": "5YJYGDEE7RF789012",
+      "stockNumber": "MD-TS-029",
+      "make": "Tesla",
+      "model": "Model Y",
+      "trim": "Long Range",
+      "year": 2024,
+      "price": 50990,
+      "mileage": 1200,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Midnight Silver Metallic",
+      "interiorColor": "Black",
+      "horsepower": 456,
+      "torque": 497,
+      "zeroToSixty": 4.2,
+      "topSpeed": 135,
+      "range": 330,
+      "efficiency": "122 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Dual Motor All-Wheel Drive",
+        "Autopilot",
+        "15-inch Touchscreen",
+        "Power Liftgate",
+        "Heated Front and Rear Seats",
+        "Cabin HEPA Filtration"
+      ],
+      "description": "Versatile electric crossover with impressive range, cargo space, and cutting-edge infotainment experience.",
+      "image": "/images/pexels-kampratt-5086489.jpg",
+      "gallery": [
+        "/images/pexels-louis-gys-218031041-12040980.jpg",
+        "/images/pexels-lynxexotics-3802508.jpg"
+      ],
+      "location": {
+        "city": "Sacramento",
+        "state": "CA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "suv"
+      ]
+    },
+    {
+      "id": "2024-polestar-2-performance-pack",
+      "vin": "LPSED3KA1RL045678",
+      "stockNumber": "MD-PO-030",
+      "make": "Polestar",
+      "model": "2",
+      "trim": "Performance Pack",
+      "year": 2024,
+      "price": 68990,
+      "mileage": 1600,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "Fastback",
+      "exteriorColor": "Snow",
+      "interiorColor": "Zinc WeaveTech",
+      "horsepower": 476,
+      "torque": 502,
+      "zeroToSixty": 4.2,
+      "topSpeed": 127,
+      "range": 300,
+      "efficiency": "92 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Ã–hlins Dual Flow Valves",
+        "Brembo Brakes",
+        "Gold Seatbelts",
+        "Google Built-In",
+        "Panoramic Roof",
+        "Pixel LED Headlights"
+      ],
+      "description": "Scandinavian electric fastback with performance-tuned suspension, intuitive tech, and sustainable materials.",
+      "image": "/images/pexels-mali-97458.jpg",
+      "gallery": [
+        "/images/pexels-marco-antonio-diaz-213207-682484.jpg",
+        "/images/pexels-mikebirdy-1054211.jpg"
+      ],
+      "location": {
+        "city": "Portland",
+        "state": "OR"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "performance",
+        "sedan"
+      ]
+    },
+    {
+      "id": "2024-hyundai-ioniq-5-limited-awd",
+      "vin": "KM8KRDAH5RU123456",
+      "stockNumber": "MD-HY-031",
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "trim": "Limited AWD",
+      "year": 2024,
+      "price": 54990,
+      "mileage": 1400,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Digital Teal",
+      "interiorColor": "Dark Pebble / Dove Gray",
+      "horsepower": 320,
+      "torque": 446,
+      "zeroToSixty": 4.5,
+      "topSpeed": 117,
+      "range": 266,
+      "efficiency": "98 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Vehicle-to-Load Capability",
+        "Vision Roof",
+        "Augmented Reality Head-Up Display",
+        "Remote Smart Parking Assist",
+        "Bose Premium Audio",
+        "Heated Rear Seats"
+      ],
+      "description": "Award-winning electric crossover with ultra-fast charging, spacious lounge-style interior, and bold retro-futuristic styling.",
+      "image": "/images/pexels-mikebirdy-112460.jpg",
+      "gallery": [
+        "/images/pexels-mikebirdy-170811.jpg",
+        "/images/pexels-mikebirdy-244206.jpg"
+      ],
+      "location": {
+        "city": "Austin",
+        "state": "TX"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "suv"
+      ]
+    },
+    {
+      "id": "2024-kia-ev6-gt",
+      "vin": "KNDCM53C3R5135790",
+      "stockNumber": "MD-KI-032",
+      "make": "Kia",
+      "model": "EV6",
+      "trim": "GT",
+      "year": 2024,
+      "price": 61590,
+      "mileage": 1700,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "Crossover",
+      "exteriorColor": "Yacht Blue",
+      "interiorColor": "Black Suede",
+      "horsepower": 576,
+      "torque": 545,
+      "zeroToSixty": 3.4,
+      "topSpeed": 161,
+      "range": 206,
+      "efficiency": "79 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Drift Mode",
+        "GT Bucket Seats",
+        "Active Sound Design",
+        "Augmented Reality Head-Up Display",
+        "Meridian Premium Audio",
+        "Vehicle-to-Load Function"
+      ],
+      "description": "High-performance electric crossover combining supercar acceleration with everyday practicality and bold design.",
+      "image": "/images/pexels-mikebirdy-446389.jpg",
+      "gallery": [
+        "/images/pexels-mikebirdy-452099.jpg",
+        "/images/pexels-mikebirdy-977003.jpg"
+      ],
+      "location": {
+        "city": "Atlanta",
+        "state": "GA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "performance",
+        "suv"
+      ]
+    },
+    {
+      "id": "2024-ford-f150-lightning-platinum",
+      "vin": "1FT6W1EV1PWG45678",
+      "stockNumber": "MD-FO-033",
+      "make": "Ford",
+      "model": "F-150 Lightning",
+      "trim": "Platinum",
+      "year": 2024,
+      "price": 96990,
+      "mileage": 2400,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "Truck",
+      "exteriorColor": "Star White",
+      "interiorColor": "Admiral Blue Leather",
+      "horsepower": 580,
+      "torque": 775,
+      "zeroToSixty": 4,
+      "topSpeed": 111,
+      "range": 300,
+      "efficiency": "68 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Pro Power Onboard 7.2kW",
+        "BlueCruise Hands-Free Driving",
+        "Mega Power Frunk",
+        "360-Degree Camera",
+        "Twin-Panel Moonroof",
+        "Heated and Ventilated Front Seats"
+      ],
+      "description": "All-electric full-size pickup delivering instant torque, intelligent towing tech, and onboard power solutions.",
+      "image": "/images/pexels-pashal-337909.jpg",
+      "gallery": [
+        "/images/pexels-peely-712618.jpg",
+        "/images/pexels-pixabay-164654.jpg"
+      ],
+      "location": {
+        "city": "Dallas",
+        "state": "TX"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "truck"
+      ]
+    },
+    {
+      "id": "2024-gmc-hummer-ev-pickup",
+      "vin": "1GT40FDA5RU100987",
+      "stockNumber": "MD-GM-034",
+      "make": "GMC",
+      "model": "Hummer EV",
+      "trim": "Edition 1",
+      "year": 2024,
+      "price": 112695,
+      "mileage": 2100,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "Truck",
+      "exteriorColor": "Interstellar White",
+      "interiorColor": "Lunar Horizon",
+      "horsepower": 1000,
+      "torque": 1200,
+      "zeroToSixty": 3,
+      "topSpeed": 106,
+      "range": 329,
+      "efficiency": "51 MPGe combined",
+      "seating": 5,
+      "features": [
+        "CrabWalk",
+        "Extract Mode",
+        "Infinity Roof with Transparent Sky Panels",
+        "UltraVision Camera System",
+        "Adaptive Air Suspension",
+        "Super Cruise"
+      ],
+      "description": "Electric super-truck with extreme off-road capability, futuristic tech, and exhilarating acceleration.",
+      "image": "/images/pexels-pixabay-210019.jpg",
+      "gallery": [
+        "/images/pexels-pixabay-39855.jpg",
+        "/images/pexels-quintingellar-313779.jpg"
+      ],
+      "location": {
+        "city": "Phoenix",
+        "state": "AZ"
+      },
+      "certified": false,
+      "categories": [
+        "all",
+        "electric",
+        "truck",
+        "adventure"
+      ]
+    },
+    {
+      "id": "2024-chevrolet-silverado-ev-rst",
+      "vin": "3GCUDCEL5RS201234",
+      "stockNumber": "MD-CH-035",
+      "make": "Chevrolet",
+      "model": "Silverado EV",
+      "trim": "RST First Edition",
+      "year": 2024,
+      "price": 94995,
+      "mileage": 1800,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "Truck",
+      "exteriorColor": "Black",
+      "interiorColor": "Gideon / Very Dark Atmosphere",
+      "horsepower": 754,
+      "torque": 785,
+      "zeroToSixty": 4.5,
+      "topSpeed": 112,
+      "range": 400,
+      "efficiency": "67 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Multi-Flex Midgate",
+        "Four-Wheel Steer",
+        "Hands-Free Super Cruise",
+        "17-inch Freeform Infotainment",
+        "Air Ride Adaptive Suspension",
+        "Dual-Level Charging"
+      ],
+      "description": "Electric pickup built on Ultium platform offering immense range, versatile cargo solutions, and advanced driver assistance.",
+      "image": "/images/pexels-riel-png-250154.jpg",
+      "gallery": [
+        "/images/pexels-sevenstormphotography-575386.jpg",
+        "/images/pexels-stephanlouis-5381501.jpg"
+      ],
+      "location": {
+        "city": "Houston",
+        "state": "TX"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "truck"
+      ]
+    },
+    {
+      "id": "2024-toyota-rav4-prime-xse",
+      "vin": "JTMEB3FV5RD123890",
+      "stockNumber": "MD-TO-036",
+      "make": "Toyota",
+      "model": "RAV4 Prime",
+      "trim": "XSE",
+      "year": 2024,
+      "price": 48990,
+      "mileage": 5300,
+      "fuelType": "Plug-In Hybrid",
+      "drivetrain": "AWD",
+      "transmission": "CVT",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Supersonic Red",
+      "interiorColor": "Black SofTex",
+      "horsepower": 302,
+      "torque": 288,
+      "zeroToSixty": 5.7,
+      "topSpeed": 120,
+      "range": 42,
+      "efficiency": "94 MPGe / 38 MPG combined",
+      "seating": 5,
+      "features": [
+        "Qi Wireless Charging",
+        "Panoramic Glass Roof",
+        "Digital Rearview Mirror",
+        "Bird's Eye View Camera",
+        "Heated Rear Seats",
+        "Toyota Safety Sense 2.5"
+      ],
+      "description": "Plug-in hybrid compact SUV blending spirited performance, generous electric range, and standard AWD capability.",
+      "image": "/images/pexels-vladalex94-1402787.jpg",
+      "gallery": [
+        "/images/pexels-yuraforrat-8642186.jpg",
+        "/images/pexels-zsolt-joo-483255-2882234.jpg"
+      ],
+      "location": {
+        "city": "Seattle",
+        "state": "WA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "hybrid",
+        "suv"
+      ]
+    },
+    {
+      "id": "2024-honda-cr-v-hybrid-touring",
+      "vin": "7FARL6H99RE042678",
+      "stockNumber": "MD-HO-037",
+      "make": "Honda",
+      "model": "CR-V Hybrid",
+      "trim": "Touring",
+      "year": 2024,
+      "price": 42990,
+      "mileage": 6200,
+      "fuelType": "Hybrid",
+      "drivetrain": "AWD",
+      "transmission": "CVT",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Canyon River Blue",
+      "interiorColor": "Black Leather",
+      "horsepower": 204,
+      "torque": 247,
+      "zeroToSixty": 7.6,
+      "topSpeed": 112,
+      "range": 520,
+      "efficiency": "40 MPG combined",
+      "seating": 5,
+      "features": [
+        "Hands-Free Power Tailgate",
+        "Wireless Apple CarPlay",
+        "Bose Premium Sound",
+        "Heated Steering Wheel",
+        "Dual-Zone Climate Control",
+        "Honda Sensing Suite"
+      ],
+      "description": "Family-friendly compact SUV offering excellent fuel efficiency, upscale amenities, and standard safety tech.",
+      "image": "/images/stefan-rodriguez-2AovfzYV3rc-unsplash.jpg",
+      "gallery": [
+        "/images/steven-binotto-o6yH_yAc2Ws-unsplash (1).jpg",
+        "/images/steven-binotto-o6yH_yAc2Ws-unsplash.jpg"
+      ],
+      "location": {
+        "city": "Portland",
+        "state": "OR"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "hybrid",
+        "suv"
+      ]
+    },
+    {
+      "id": "2024-toyota-camry-xse-v6",
+      "vin": "4T1KZ1AK7RU145678",
+      "stockNumber": "MD-TO-038",
+      "make": "Toyota",
+      "model": "Camry",
+      "trim": "XSE V6",
+      "year": 2024,
+      "price": 38990,
+      "mileage": 5800,
+      "fuelType": "Gasoline",
+      "drivetrain": "FWD",
+      "transmission": "8-Speed Automatic",
+      "bodyStyle": "Sedan",
+      "exteriorColor": "Supersonic Red / Midnight Black",
+      "interiorColor": "Cockpit Red",
+      "horsepower": 301,
+      "torque": 267,
+      "zeroToSixty": 5.8,
+      "topSpeed": 135,
+      "range": 460,
+      "efficiency": "26 MPG combined",
+      "seating": 5,
+      "features": [
+        "Panoramic Glass Roof",
+        "9-inch Touchscreen",
+        "Bird's Eye View Camera",
+        "Sport-Tuned Suspension",
+        "Qi Wireless Charging",
+        "Toyota Safety Sense 2.5"
+      ],
+      "description": "Sport-tuned midsize sedan offering V6 power, head-turning design, and advanced safety features.",
+      "image": "/images/Tesla Model S_1.jpg",
+      "gallery": [
+        "/images/Tesla Model S_2.jpg",
+        "/images/Tesla Model S_3.jpg"
+      ],
+      "location": {
+        "city": "Tampa",
+        "state": "FL"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "sedan"
+      ]
+    },
+    {
+      "id": "2024-lexus-gx-550-overtrail",
+      "vin": "JTJAC5BH5R4234567",
+      "stockNumber": "MD-LE-039",
+      "make": "Lexus",
+      "model": "GX",
+      "trim": "550 Overtrail",
+      "year": 2024,
+      "price": 74990,
+      "mileage": 1900,
+      "fuelType": "Gasoline",
+      "drivetrain": "4WD",
+      "transmission": "10-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Earth",
+      "interiorColor": "Black NuLuxe",
+      "horsepower": 349,
+      "torque": 479,
+      "zeroToSixty": 6.5,
+      "topSpeed": 130,
+      "range": 430,
+      "efficiency": "18 MPG combined",
+      "seating": 7,
+      "features": [
+        "E-KDSS Suspension",
+        "Multi-Terrain Monitor",
+        "Overtrail Exclusive Seating",
+        "Mark Levinson Premium Audio",
+        "Heated Steering Wheel",
+        "Panoramic View Monitor"
+      ],
+      "description": "Luxury body-on-frame SUV engineered for overlanding adventures with refined amenities and advanced off-road tech.",
+      "image": "/images/Volvo S60 recharge_1.jpg",
+      "gallery": [
+        "/images/Volvo S60 recharge_2.jpg",
+        "/images/aaron-huber-8qYE6LGHW-c-unsplash (1).jpg"
+      ],
+      "location": {
+        "city": "Denver",
+        "state": "CO"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "luxury",
+        "suv",
+        "adventure"
+      ]
+    },
+    {
+      "id": "2024-ford-bronco-raptor",
+      "vin": "1FMEE5JR4RLA34567",
+      "stockNumber": "MD-FO-040",
+      "make": "Ford",
+      "model": "Bronco",
+      "trim": "Raptor",
+      "year": 2024,
+      "price": 89990,
+      "mileage": 2400,
+      "fuelType": "Gasoline",
+      "drivetrain": "4WD",
+      "transmission": "10-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Code Orange",
+      "interiorColor": "Black Onyx",
+      "horsepower": 418,
+      "torque": 440,
+      "zeroToSixty": 5.9,
+      "topSpeed": 111,
+      "range": 360,
+      "efficiency": "15 MPG combined",
+      "seating": 5,
+      "features": [
+        "FOX Live Valve Suspension",
+        "High Clearance Fender Flares",
+        "Trail Control and Turn Assist",
+        "12-inch SYNC 4 Infotainment",
+        "Marine-Grade Vinyl Seats",
+        "Removable Roof and Doors"
+      ],
+      "description": "Extreme off-road SUV engineered by Ford Performance with desert racing capability and advanced trail tech.",
+      "image": "/images/aaron-huber-8qYE6LGHW-c-unsplash.jpg",
+      "gallery": [
+        "/images/Acura mdx_1.jpg",
+        "/images/Acura mdx_2.jpg"
+      ],
+      "location": {
+        "city": "Moab",
+        "state": "UT"
+      },
+      "certified": false,
+      "categories": [
+        "all",
+        "adventure",
+        "suv",
+        "performance"
+      ]
+    },
+    {
+      "id": "2024-subaru-outback-wilderness",
+      "vin": "4S4BTGND0R3123456",
+      "stockNumber": "MD-SU-041",
+      "make": "Subaru",
+      "model": "Outback",
+      "trim": "Wilderness",
+      "year": 2024,
+      "price": 41990,
+      "mileage": 4100,
+      "fuelType": "Gasoline",
+      "drivetrain": "AWD",
+      "transmission": "CVT",
+      "bodyStyle": "Wagon",
+      "exteriorColor": "Geyser Blue",
+      "interiorColor": "StarTex Water-Repellent",
+      "horsepower": 260,
+      "torque": 277,
+      "zeroToSixty": 6.1,
+      "topSpeed": 130,
+      "range": 480,
+      "efficiency": "24 MPG combined",
+      "seating": 5,
+      "features": [
+        "Dual-Function X-Mode",
+        "9.5-inch Ground Clearance",
+        "Front View Camera",
+        "Water-Repellent Upholstery",
+        "Heated Steering Wheel",
+        "Subaru EyeSight Driver Assist"
+      ],
+      "description": "Adventure-ready crossover wagon with rugged suspension, practical cargo solutions, and Subaru's signature AWD confidence.",
+      "image": "/images/Acura mdx_3.jpg",
+      "gallery": [
+        "/images/campbell-3ZUsNJhi_Ik-unsplash.jpg",
+        "/images/david-moffatt-wg5OReRpgCo-unsplash.jpg"
+      ],
+      "location": {
+        "city": "Boise",
+        "state": "ID"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "suv",
+        "adventure",
+        "wagon"
+      ]
+    },
+    {
+      "id": "2024-jeep-wrangler-4xe-high-altitude",
+      "vin": "1C4JJXS6XRW123456",
+      "stockNumber": "MD-JP-042",
+      "make": "Jeep",
+      "model": "Wrangler",
+      "trim": "4xe High Altitude",
+      "year": 2024,
+      "price": 68990,
+      "mileage": 3300,
+      "fuelType": "Plug-In Hybrid",
+      "drivetrain": "4WD",
+      "transmission": "8-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Hydro Blue Pearl",
+      "interiorColor": "Global Black / Steel Gray",
+      "horsepower": 375,
+      "torque": 470,
+      "zeroToSixty": 6,
+      "topSpeed": 110,
+      "range": 21,
+      "efficiency": "49 MPGe / 20 MPG combined",
+      "seating": 5,
+      "features": [
+        "Selec-Trac Full-Time 4WD",
+        "Body-Color Hardtop",
+        "Integrated Off-Road Camera",
+        "9-Speaker Alpine Audio",
+        "Heated Nappa Leather Seats",
+        "Uconnect 4C NAV"
+      ],
+      "description": "Premium plug-in hybrid Wrangler delivering silent electric crawling, iconic open-air freedom, and sophisticated styling.",
+      "image": "/images/josh-berquist-0kxOW0I-HLM-unsplash.jpg",
+      "gallery": [
+        "/images/joshua-koblin-eqW1MPinEV4-unsplash.jpg",
+        "/images/kenny-eliason-FcyipqujfGg-unsplash.jpg"
+      ],
+      "location": {
+        "city": "Flagstaff",
+        "state": "AZ"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "hybrid",
+        "suv",
+        "adventure"
+      ]
+    },
+    {
+      "id": "2024-ram-1500-trx-final-edition",
+      "vin": "1C6SRFU98RN123456",
+      "stockNumber": "MD-RM-043",
+      "make": "Ram",
+      "model": "1500",
+      "trim": "TRX Final Edition",
+      "year": 2024,
+      "price": 119995,
+      "mileage": 1500,
+      "fuelType": "Gasoline",
+      "drivetrain": "4WD",
+      "transmission": "8-Speed Automatic",
+      "bodyStyle": "Truck",
+      "exteriorColor": "Delmonico Red",
+      "interiorColor": "Black Natura Plus Leather",
+      "horsepower": 702,
+      "torque": 650,
+      "zeroToSixty": 4.5,
+      "topSpeed": 118,
+      "range": 320,
+      "efficiency": "12 MPG combined",
+      "seating": 5,
+      "features": [
+        "Bilstein Black Hawk e2 Shocks",
+        "Launch Control",
+        "Performance Hood",
+        "12-inch Uconnect 5 NAV",
+        "Harman Kardon 19-Speaker Audio",
+        "Heated and Ventilated Front Seats"
+      ],
+      "description": "Supercharged off-road pickup delivering desert-truck suspension, thunderous V8 power, and premium cabin appointments.",
+      "image": "/images/marek-pospisil-oUBjd22gF6w-unsplash.jpg",
+      "gallery": [
+        "/images/mitch-kemp-2w_Nxti8iKE-unsplash.jpg",
+        "/images/olav-tvedt-6lSBynPRaAQ-unsplash (1).jpg"
+      ],
+      "location": {
+        "city": "Las Vegas",
+        "state": "NV"
+      },
+      "certified": false,
+      "categories": [
+        "all",
+        "truck",
+        "performance"
+      ]
+    },
+    {
+      "id": "2024-toyota-tundra-capstone-iferce-max",
+      "vin": "5TFVC5DB0RX123456",
+      "stockNumber": "MD-TO-044",
+      "make": "Toyota",
+      "model": "Tundra",
+      "trim": "Capstone i-FORCE MAX",
+      "year": 2024,
+      "price": 77490,
+      "mileage": 2600,
+      "fuelType": "Hybrid",
+      "drivetrain": "4WD",
+      "transmission": "10-Speed Automatic",
+      "bodyStyle": "Truck",
+      "exteriorColor": "Wind Chill Pearl",
+      "interiorColor": "Semi-Aniline Saddle Tan",
+      "horsepower": 437,
+      "torque": 583,
+      "zeroToSixty": 5.8,
+      "topSpeed": 115,
+      "range": 430,
+      "efficiency": "22 MPG combined",
+      "seating": 5,
+      "features": [
+        "Load-Leveling Rear Height Control",
+        "Power Extending Running Boards",
+        "Panoramic View Monitor",
+        "Head-Up Display",
+        "14-inch Toyota Audio Multimedia",
+        "Acoustic Glass Cab"
+      ],
+      "description": "Flagship hybrid pickup blending commanding towing capability with executive-level interior comfort and tech.",
+      "image": "/images/olav-tvedt-6lSBynPRaAQ-unsplash.jpg",
+      "gallery": [
+        "/images/pexels-adrian-dorobantu-989175-2127733.jpg",
+        "/images/pexels-alshreef-32757555.jpg"
+      ],
+      "location": {
+        "city": "San Antonio",
+        "state": "TX"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "hybrid",
+        "truck",
+        "luxury"
+      ]
+    },
+    {
+      "id": "2024-chevrolet-tahoe-high-country",
+      "vin": "1GNSKTKL2RR234567",
+      "stockNumber": "MD-CH-045",
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "High Country",
+      "year": 2024,
+      "price": 79990,
+      "mileage": 3800,
+      "fuelType": "Gasoline",
+      "drivetrain": "4WD",
+      "transmission": "10-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Iridescent Pearl Tricoat",
+      "interiorColor": "Jet Black / Umber",
+      "horsepower": 420,
+      "torque": 460,
+      "zeroToSixty": 5.9,
+      "topSpeed": 130,
+      "range": 470,
+      "efficiency": "17 MPG combined",
+      "seating": 7,
+      "features": [
+        "Air Ride Adaptive Suspension",
+        "Adaptive Cruise with Trailering Assist",
+        "Head-Up Display",
+        "Rear Camera Mirror",
+        "Heated Second-Row Bucket Seats",
+        "15-inch Diagonal HUD"
+      ],
+      "description": "Full-size luxury SUV offering premium amenities, trailering innovations, and three-row comfort for the whole family.",
+      "image": "/images/pexels-arnie-watkins-1337313-3156482.jpg",
+      "gallery": [
+        "/images/pexels-avinashpatel-544542.jpg",
+        "/images/pexels-bradikan-30806975.jpg"
+      ],
+      "location": {
+        "city": "Charlotte",
+        "state": "NC"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "luxury",
+        "suv"
+      ]
+    },
+    {
+      "id": "2024-nissan-ariya-platinum-plus",
+      "vin": "JN1BF0BA0RM345678",
+      "stockNumber": "MD-NI-046",
+      "make": "Nissan",
+      "model": "Ariya",
+      "trim": "Platinum+ e-4ORCE",
+      "year": 2024,
+      "price": 61990,
+      "mileage": 2400,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Akatsuki Copper",
+      "interiorColor": "Blue Gray Nappa",
+      "horsepower": 389,
+      "torque": 442,
+      "zeroToSixty": 4.8,
+      "topSpeed": 124,
+      "range": 265,
+      "efficiency": "90 MPGe combined",
+      "seating": 5,
+      "features": [
+        "ProPILOT Assist 2.0",
+        "Digital Intelligent Around View Monitor",
+        "Head-Up Display",
+        "Power Center Console",
+        "Bose 10-Speaker Audio",
+        "Heated Front and Rear Seats"
+      ],
+      "description": "Elegant electric crossover with lounge-like cabin, dual-motor e-4ORCE control, and advanced hands-off driving capability.",
+      "image": "/images/pexels-brett-sayles-1638459.jpg",
+      "gallery": [
+        "/images/pexels-cesarperez209-733745.jpg",
+        "/images/pexels-charles-kettor-268979-831475.jpg"
+      ],
+      "location": {
+        "city": "San Jose",
+        "state": "CA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "suv"
+      ]
+    },
+    {
+      "id": "2024-bmw-i4-m50",
+      "vin": "WBY33AW05RFS45678",
+      "stockNumber": "MD-BM-047",
+      "make": "BMW",
+      "model": "i4",
+      "trim": "M50",
+      "year": 2024,
+      "price": 68900,
+      "mileage": 2100,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "Gran Coupe",
+      "exteriorColor": "Frozen Portimao Blue",
+      "interiorColor": "Tacora Red Vernasca Leather",
+      "horsepower": 536,
+      "torque": 586,
+      "zeroToSixty": 3.7,
+      "topSpeed": 140,
+      "range": 271,
+      "efficiency": "88 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Adaptive M Suspension",
+        "IconicSounds Electric",
+        "BMW Curved Display",
+        "Head-Up Display",
+        "Harman Kardon Surround Sound",
+        "Driving Assistance Professional"
+      ],
+      "description": "Electric sport gran coupe delivering M-inspired performance, engaging handling, and immersive digital cockpit.",
+      "image": "/images/pexels-danielspase-949796.jpg",
+      "gallery": [
+        "/images/pexels-dom-j-7304-303316.jpg",
+        "/images/pexels-jacobmorch-457418.jpg"
+      ],
+      "location": {
+        "city": "Newark",
+        "state": "NJ"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "performance",
+        "sedan"
+      ]
+    },
+    {
+      "id": "2024-genesis-gv70-electrified",
+      "vin": "KMUMCDTC5RU054321",
+      "stockNumber": "MD-GE-048",
+      "make": "Genesis",
+      "model": "GV70",
+      "trim": "Electrified",
+      "year": 2024,
+      "price": 72990,
+      "mileage": 1800,
+      "fuelType": "Electric",
+      "drivetrain": "AWD",
+      "transmission": "1-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Makalu Gray Matte",
+      "interiorColor": "Glacier White Nappa Leather",
+      "horsepower": 483,
+      "torque": 516,
+      "zeroToSixty": 3.8,
+      "topSpeed": 146,
+      "range": 236,
+      "efficiency": "87 MPGe combined",
+      "seating": 5,
+      "features": [
+        "Boost Mode",
+        "Ergo Motion Seats",
+        "Fingerprint Authentication",
+        "14.5-inch HD Infotainment",
+        "Lexicon 14-Speaker Audio",
+        "Vehicle-to-Load Capability"
+      ],
+      "description": "Electrified luxury crossover combining athletic design, rapid acceleration, and a technology-rich sanctuary interior.",
+      "image": "/images/pexels-junnoet-235222.jpg",
+      "gallery": [
+        "/images/pexels-kampratt-5086489.jpg",
+        "/images/pexels-louis-gys-218031041-12040980.jpg"
+      ],
+      "location": {
+        "city": "Miami",
+        "state": "FL"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "electric",
+        "luxury",
+        "suv"
+      ]
+    },
+    {
+      "id": "2024-volvo-s60-recharge-ultimate",
+      "vin": "7JRH60DLXR1234567",
+      "stockNumber": "MD-VO-049",
+      "make": "Volvo",
+      "model": "S60 Recharge",
+      "trim": "Ultimate Black Edition",
+      "year": 2024,
+      "price": 58990,
+      "mileage": 4200,
+      "fuelType": "Plug-In Hybrid",
+      "drivetrain": "AWD",
+      "transmission": "8-Speed Automatic",
+      "bodyStyle": "Sedan",
+      "exteriorColor": "Onyx Black",
+      "interiorColor": "Charcoal Nappa Leather",
+      "horsepower": 455,
+      "torque": 523,
+      "zeroToSixty": 4.3,
+      "topSpeed": 112,
+      "range": 41,
+      "efficiency": "74 MPGe / 31 MPG combined",
+      "seating": 5,
+      "features": [
+        "Pilot Assist",
+        "Bowers & Wilkins Audio",
+        "Google Built-In",
+        "Crystal Orrefors Gear Shifter",
+        "Heated Steering Wheel",
+        "Advanced Air Purifier"
+      ],
+      "description": "Scandinavian plug-in hybrid sedan blending elegant design, powerful electrified performance, and cutting-edge safety technology.",
+      "image": "/images/pexels-lynxexotics-3802508.jpg",
+      "gallery": [
+        "/images/pexels-mali-97458.jpg",
+        "/images/pexels-marco-antonio-diaz-213207-682484.jpg"
+      ],
+      "location": {
+        "city": "Chicago",
+        "state": "IL"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "hybrid",
+        "luxury",
+        "sedan"
+      ]
+    },
+    {
+      "id": "2024-acura-mdx-type-s-advance",
+      "vin": "5J8YE1H83RL034567",
+      "stockNumber": "MD-AC-050",
+      "make": "Acura",
+      "model": "MDX",
+      "trim": "Type S Advance",
+      "year": 2024,
+      "price": 73900,
+      "mileage": 3000,
+      "fuelType": "Gasoline",
+      "drivetrain": "AWD",
+      "transmission": "10-Speed Automatic",
+      "bodyStyle": "SUV",
+      "exteriorColor": "Tiger Eye Pearl",
+      "interiorColor": "Light Orchid Milano Leather",
+      "horsepower": 355,
+      "torque": 354,
+      "zeroToSixty": 5,
+      "topSpeed": 143,
+      "range": 430,
+      "efficiency": "21 MPG combined",
+      "seating": 6,
+      "features": [
+        "Adaptive Air Suspension",
+        "Type S Sport Seats",
+        "ELS Studio 3D Signature Edition Audio",
+        "Head-Up Display",
+        "12.3-inch Precision Cockpit",
+        "Hands-Free Power Tailgate"
+      ],
+      "description": "Performance-tuned three-row SUV pairing super handling AWD, premium craftsmanship, and immersive technology for active families.",
+      "image": "/images/pexels-mikebirdy-1054211.jpg",
+      "gallery": [
+        "/images/pexels-mikebirdy-112460.jpg",
+        "/images/pexels-mikebirdy-170811.jpg"
+      ],
+      "location": {
+        "city": "Los Angeles",
+        "state": "CA"
+      },
+      "certified": true,
+      "categories": [
+        "all",
+        "luxury",
+        "suv"
+      ]
+    }
+  ]
+}
